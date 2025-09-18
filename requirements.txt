@@ -1,0 +1,18 @@
+# CV
+opencv-python-headless
+numpy
+
+# ML
+torch
+
+# CAD & UI
+ezdxf
+gradio
+
+# Packaging
+pyinstaller
+
+psutil
+matplotlib
+Pillow
+pytest
